@@ -1,0 +1,102 @@
+[
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Como se llama este personaje?",
+        "respuesta": "Bardock",
+        "incorrecta1": "Goku Black",
+        "incorrecta2": "Gohan",
+        "incorrecta3": "Goku",
+        "imagen": "https://i.ibb.co/SP6hQhf/K3-Q3-JX2-E5-ZAW7-K6-VFJGEU5-FZW4.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Como se llama este personaje?",
+        "respuesta": "Goku Black",
+        "incorrecta1": "Gohan",
+        "incorrecta2": "Bardock",
+        "incorrecta3": "Goku",
+        "imagen": "https://i.ibb.co/Q9bs3yt/7bef-Y7-IZ-400x400.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Como se llama este personaje?",
+        "respuesta": "Goku",
+        "incorrecta1": "Goku Black",
+        "incorrecta2": "Bardock",
+        "incorrecta3": "Gohan",
+        "imagen": "https://i.ibb.co/j3tKFHb/XMJRWZH5-N5-CBXPL67-NAKBGXFNI.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quien es el maestro de naruto?",
+        "respuesta": "Jiraya",
+        "incorrecta1": "Sasuke",
+        "incorrecta2": "Pain",
+        "incorrecta3": "Ash",
+        "imagen": "https://i.ibb.co/s1PNRk0/images.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué poder tiene desde su nacimiento Izuku Midoriya en My Hero Academia?",
+        "respuesta": "Niguno",
+        "incorrecta1": "One for all",
+        "incorrecta2": "Super Fuerza",
+        "incorrecta3": "All for one",
+        "imagen": "https://i.ibb.co/74stj8p/poderes-izuku-midoriya.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Dónde vive Naruto?",
+        "respuesta": "Konoha",
+        "incorrecta1": "Alabasta",
+        "incorrecta2": "Pueblo paleta",
+        "incorrecta3": "Namek",
+        "imagen": "https://i.ibb.co/mBJhxtR/donde-vive-naruto.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué significa la palabra Shinigami?",
+        "respuesta": "Dios de la muerte",
+        "incorrecta1": "Protector del Death Note",
+        "incorrecta2": "Devorador de almas",
+        "incorrecta3": "Maestro de los muertos",
+        "imagen": "https://i.ibb.co/ZVk5CYt/shinigami-death-note.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuál ha sido la única película de animación japonesa en ganar un Oscar?",
+        "respuesta": "Your name (Kimi no na wa)",
+        "incorrecta1": "El viaje de Chihiro (Sen to Chihiro no kamikakushi )",
+        "incorrecta2": "El amor está en el agua (Kimi to, Nami ni Noretara)",
+        "incorrecta3": "La batalla de los Dioses",
+        "imagen": "https://i.ibb.co/PcBKnCQ/AAAABRYOh-JA6-UB524-DCbxcji4-Wgpkip9-DUlf5-W-j4-FC0-De-O4je-Jmql-L5-Ees-Eb-Acp-Hp-Jw1z-Jm0cewi-Bk1s.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿En que se quiere convertir luffy?",
+        "respuesta": "Rey de los piratas",
+        "incorrecta1": "Maestro pokemon",
+        "incorrecta2": "Hokage",
+        "incorrecta3": "Maestro Pokemon",
+        "imagen": "https://i.ibb.co/kJVHYQK/descarga.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuántas Dragon Balls hay?",
+        "respuesta": "7",
+        "incorrecta1": "6",
+        "incorrecta2": "4",
+        "incorrecta3": "8",
+        "imagen": "https://i.ibb.co/ThtGhcW/images-1.jpg",
+        "objectFit": "contain"
+    }
+]
